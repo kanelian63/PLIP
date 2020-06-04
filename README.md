@@ -2,7 +2,9 @@
 Based on PLIP, you can write and use code that can extract various combinations of information from a PDB file locally. The copyright of the data created with the code belongs to the PLIP author.
 
 Website : https://projects.biotec.tu-dresden.de/plip-web/plip
+
 Paper : https://www.readcube.com/articles/10.1093/nar/gkv315
+
 Github : https://github.com/pharmai/plip
 
 # Details
