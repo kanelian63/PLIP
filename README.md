@@ -11,7 +11,7 @@ Github : https://github.com/pharmai/plip
 This service is only for online use, but it is possible to create Data-set locally using source code. To make the binding information of the protein and ligand into a dataset and use it in a new drug development model.
 
 # Example
-Interactions of 2REG
+Interaction of Compound 2REG
 
 ![dssddssd](https://user-images.githubusercontent.com/59387983/83992941-ede5d700-a98c-11ea-9c43-ec116f65a316.PNG)
 
