@@ -13,9 +13,10 @@ This service is only for online use, but it is possible to create Data-set local
 # Example
 Interactions of 2REG
 
+![dssddssd](https://user-images.githubusercontent.com/59387983/83992941-ede5d700-a98c-11ea-9c43-ec116f65a316.PNG)
+
 ![dsd](https://user-images.githubusercontent.com/59387983/83992876-b119e000-a98c-11ea-8d49-280317c63870.PNG)
 
-![gkv315fig1](https://user-images.githubusercontent.com/59387983/83992878-b24b0d00-a98c-11ea-8dfa-1e4d31804066.jpg)
 
 
 # Files
